@@ -124,7 +124,7 @@ Week 9
    - 4/12 - Free Day! Students Choice! 
   
 
-    <br>
+
 Week 10
    - 4/17 - Project Proposals and Work Time
    - 4/19 - Project Work Time
