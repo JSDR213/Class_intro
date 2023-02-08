@@ -82,8 +82,10 @@ Week 2
  - 2/22 - Intro to JS and Datatypes
   
   <br>
+  
 Week 3
   - 2/27 - Arrays and Methods, Objects and JSON
+  
   - 3/1 - Condtionals and Loops
 
     <br>
