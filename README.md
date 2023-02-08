@@ -12,7 +12,7 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
 
 <ul type="none">
 
-<li><details><summary><strong>Code of Conduct</strong></summary><p>
+<strong>Code of Conduct</strong>
 
 <ul>
   <li>Foster a productive classroom environment.</li>
@@ -26,9 +26,9 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
   <li><b>Zero tolerance for plagiarism and cheating.</b></li>
 </ul>
 
-</p></details></li>
 
-<li><details><summary><strong>Deliverable Submission Requirements</strong></summary><p>
+
+<strong>Deliverable Submission Requirements</strong>
 
 <ul>
   <li>Deliverables must be submitted following the <a href="https://github.com/SEIR-123/template_pull_request">PR Guidelines</a>.</li>
