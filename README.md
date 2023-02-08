@@ -4,7 +4,7 @@
 Welcome to our 11 week, part time JS Developement Remote class!
 
 
-<details><summary><strong>Class Policies</strong></summary><p>
+<strong>Class Policies</strong>
 
 Below, you will find Class Policies and Requirements as laid out in Orientation and conveyed by the Instructional Team.  We compile them here for your reference and review.
 
