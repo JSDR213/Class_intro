@@ -77,11 +77,11 @@ Week 1
  - 2/13 - Introductions and Installfest
  - 2/15 - Command Line, Git, VS Code Set Up
   
-  
+    <br>
 Week 2 
  - 2/22 - Intro to JS and Datatypes
   
-
+  <br>
 Week 3
   - 2/27 - Arrays and Methods, Objects and JSON
   - 3/1 - Higher Order Functions
