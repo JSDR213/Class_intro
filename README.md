@@ -33,11 +33,8 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
 <ul>
   <li>Deliverables must be submitted following the <a href="https://github.com/SEIR-123/template_pull_request">PR Guidelines</a>.</li>
   <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
-  <li>Deliverables are <i>always</i> due the following class day at the beginning of class, unless otherwise stated.</li>
-  <li>There is a grace period for re-submission or late submission.  All re-submits/late submits are due the <b>Monday following the week of assignment</b>.
-    <ul>
-      <li>Deliverables assigned on Fridays <b>do not</b> have a re-submit <i>or</i> late submit grace period.</li>
-      <li>Deliverables submitted <i>after</i> the grace period <b>will not</b> be graded or accepted and will be marked as "Incomplete".</li>
+  <li>Deliverables are due the following  Wednesday at the beginning of class, unless otherwise stated.</li>
+  <li>There is a grace period for re-submission or late submission. 
     </ul>
   </li>
 </ul>
