@@ -22,7 +22,7 @@ ____
   <h3>Brittany Morataya</h3>
   <h4>Senior Instructional Associate</h4>
   <p>My name is Brittany and I will be your <b>Instructor Associate (IA)</b>. I will be here as added support through your journey of becoming a software engineer.</p>
-  <p>As a GA graduate, I have been in your shoes and understand what it takes to get through such a course. As for my experience, with a focus in front-end design, I freelanced for multiple clients implementing skills from previous experience with managing teams, data collection, and communication to provide a positive and open space for colleagues and clients. This will be my second cohort as an IA and I am excited to guide and help shape your minds.</p>
+  <p>As a GA graduate, I have been in your shoes and understand what it takes to get through such a course. As for my experience, with a focus in front-end design, I freelanced for multiple clients implementing skills from previous experience with managing teams, data collection, and communication to provide a positive and open space for colleagues and clients.</p>
   <span><a href="https://github.com/bmorataya3">GitHub</a> | <a href="https://www.linkedin.com/in/brittany-morataya/">LinkedIn</a></span>
   <br>
 </div>
