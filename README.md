@@ -15,32 +15,32 @@ Week 2
  - 2/22 - Intro to JS and Datatypes
 
 Week 3
-  - 2/27 - Arrays and Methods
-  - 3/1 - Objects and JSON
+  - 2/27 - Arrays and Methods, Objects and JSON
+  - 3/1 - Higher Order Functions
 
 Week 4
   - 3/6 - Functions and Scope
   - 3/8 - Condtionals and Loops
   
 Week 5
-  - 3/13 - Object Oriented ProgrammingI
+  - 3/13 - Object Oriented Programming I
   - 3/15 - Codewars Challenge 
   
 Week 6
-  - 3/20 - DOM Manipulation I
-  - 3/22 - DOTS Lab
+  - 3/20 - HTML and CSS Review
+  - 3/22 - DOM Manipulation I
  
 Week 7 
-   - 3/27 - JS Calculator
-   - 3/29 - JS Tic Tac Toe
+   - 3/27 - DOTS Lab
+   - 3/29 - JS Calculator 
    
 Week 8
-   - 4/3 - AJAX and APIs I
-   - 4/5 - SWAPI Lab
+   - 4/3 - JS Tic Tac Toe
+   - 4/5 - AJAX and APIs I
 
 Week 9
-   - 4/10 - APIs and AJAX II
-   - 4/12 - Something?
+   - 4/10 - SWAPI Lab
+   - 4/12 - Free Day! Students Choice!
  
 Week 10
    - 4/17 - Project Proposals and Work Time
