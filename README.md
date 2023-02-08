@@ -105,20 +105,20 @@ Week 6
   - 3/20 - HTML and CSS Review
   - 3/22 - DOM Manipulation I
   
-  <br>
+
   
 Week 7 
    - 3/27 - DOTS Lab
    - 3/29 - JS Calculator 
   
    
-    <br>
+   
 Week 8
    - 4/3 - JS Tic Tac Toe
    - 4/5 - AJAX and APIs I
   
 
-    <br>
+ 
 Week 9
    - 4/10 - SWAPI Lab
    - 4/12 - Free Day! Students Choice! 
@@ -130,8 +130,8 @@ Week 10
    - 4/19 - Project Work Time
   
 
-    <br>
+  
 Week 11
    - 4/24 - Project Presentations, Next Steps
 
-  <br>
+ 
