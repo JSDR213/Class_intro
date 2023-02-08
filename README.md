@@ -3,6 +3,48 @@
 
 Welcome to our 11 week, part time JS Developement Remote class!
 
+
+<details><summary><strong>Class Policies</strong></summary><p>
+
+Below, you will find Class Policies and Requirements as laid out in Orientation and conveyed by the Instructional Team.  We compile them here for your reference and review.
+
+</p>
+
+<ul type="none">
+
+<li><details><summary><strong>Code of Conduct</strong></summary><p>
+
+<ul>
+  <li>Foster a productive classroom environment.</li>
+  <li>Treat others with respect and dignity.</li>
+  <li>Remember that everyone is coming at this with a different background.</li>
+  <li>Professionalism in all methods of communication, both in-person <i>and</i> online.
+    <ul>
+      <li>Slack is an extension of our on-campus community. We ask that you remain courteous, respectful, and professional while engaging on Slack.</li>
+    </ul>
+  </li>
+  <li><b>Zero tolerance for plagiarism and cheating.</b></li>
+</ul>
+
+</p></details></li>
+
+<li><details><summary><strong>Deliverable Submission Requirements</strong></summary><p>
+
+<ul>
+  <li>Deliverables must be submitted following the <a href="https://github.com/SEIR-123/template_pull_request">PR Guidelines</a>.</li>
+  <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
+  <li>Deliverables are <i>always</i> due the following class day at the beginning of class, unless otherwise stated.</li>
+  <li>There is a grace period for re-submission or late submission.  All re-submits/late submits are due the <b>Monday following the week of assignment</b>.
+    <ul>
+      <li>Deliverables assigned on Fridays <b>do not</b> have a re-submit <i>or</i> late submit grace period.</li>
+      <li>Deliverables submitted <i>after</i> the grace period <b>will not</b> be graded or accepted and will be marked as "Incomplete".</li>
+    </ul>
+  </li>
+</ul>
+
+
+
+
 ____
 
 <div align="center">
