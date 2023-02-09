@@ -70,6 +70,8 @@ ____
 
 Schedule (Will most likely change!)
 
+### Unit 1 - Intro to Programming and Javascript
+
 Week 1 
  - 2/13 - Introductions and Installfest
  - 2/15 - Command Line, Git, VS Code Set Up
@@ -98,6 +100,8 @@ Week 5
   
 
     <br>
+    
+ ### Unit 2 - DOM Manipulation and Front End Web Development
 Week 6
   - 3/20 - HTML and CSS Review
   - 3/22 - DOM Manipulation I
@@ -109,7 +113,9 @@ Week 7
    - 3/29 - JS Calculator 
   
    
-   
+ 
+### Unit 3 - APIs and Databases 
+ 
 Week 8
    - 4/3 - JS Tic Tac Toe
    - 4/5 - AJAX and APIs I
