@@ -73,25 +73,25 @@ Schedule (Will most likely change!)
 ### Unit 1 - Intro to Programming and Javascript
 
 Week 1 
- - 2/13 - Introductions and Installfest
- - 2/15 - Command Line, Git, VS Code Set Up
+ - 2/13 - Intro to JS and DatatypesIntroductions and Installfest
+ - 2/15 -Arrays and Methods  
   
     <br>
 Week 2 
- - 2/22 - Intro to JS and Datatypes
+ - 2/22 - Objects and JSON
+  
   
   <br>
   
 Week 3
-  - 2/27 - Arrays and Methods, Objects and JSON
-  
-  - 3/1 - Condtionals and Loops
+  - 2/27 - Condtionals and Loops
+  - 3/1 - Functions and Scope
 
     <br>
 Week 4
-  - 3/6 - Functions and Scope
-  - 3/8 - Higher Order Functions
-  
+  - 3/6 - Higher Order Functions
+  - 3/8 -  Command Line, Git, VS Code Set Up
+ 
 
     <br>
 Week 5
