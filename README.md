@@ -96,7 +96,7 @@ Week 4
     <br>
 Week 5
   - 3/13 - Object Oriented Programming I
-  - 3/15 - Codewars Challenge 
+  - 3/15 - JS Review & Codewars Challenges
   
 
     <br>
