@@ -73,12 +73,12 @@ Schedule (Will most likely change!)
 ### Unit 1 - Intro to Programming and Javascript
 
 Week 1 
- - 2/13 - Intro to JS and DatatypesIntroductions and Installfest
- - 2/15 -Arrays and Methods  
+ - 2/13 - Intro to JS and Datatypes
+ - 2/15 - Arrays and Methods  
   
     <br>
 Week 2 
- - 2/22 - Objects and JSON
+  - 2/22 - Objects and JSON
   
   
   <br>
@@ -117,14 +117,14 @@ Week 7
 ### Unit 3 - APIs and Databases 
  
 Week 8
-   - 4/3 - JS Tic Tac Toe
-   - 4/5 - AJAX and APIs I
+   - 4/3 - AJAX, Axios, and APIs I - Dogs and Pokemon
+   - 4/5 - AJAX, Axios, and APIs II - Weather Lab
   
 
  
 Week 9
-   - 4/10 - SWAPI Lab
-   - 4/12 - Free Day! Students Choice! 
+   - 4/10 - Express Intro and Middleware
+   - 4/12 - Express Controllers
   
 
 
